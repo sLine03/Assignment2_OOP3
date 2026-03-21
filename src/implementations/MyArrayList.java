@@ -1,5 +1,4 @@
 package implementations;
-
 import utilities.Iterator;
 import utilities.ListADT;
 import java.util.NoSuchElementException;
